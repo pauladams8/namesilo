@@ -1,0 +1,14 @@
+{
+    "name": "pauladams/namesilo",
+    "description": "A PHP client for the Namesilo API",
+    "require": {
+        "ext-curl": "*"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Paul Adams",
+            "email": "paul.adams@thecoderszone.com"
+        }
+    ]
+}
