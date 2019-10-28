@@ -2,8 +2,8 @@
 
 namespace PaulAdams\Namesilo;
 
-use Dashboard\Services\Namesilo\Client\HttpClient;
-use Dashboard\Services\Namesilo\Response\Response;
+use PaulAdams\Namesilo\Client\HttpClient;
+use PaulAdams\Namesilo\Response\Response;
 
 /**
  * Class Client

@@ -2,8 +2,8 @@
 
 namespace PaulAdams\Namesilo\Client;
 
-use Dashboard\Services\Namesilo\Exceptions\HttpClientException;
-use Dashboard\Services\Namesilo\Response\Response;
+use PaulAdams\Namesilo\Exceptions\HttpClientException;
+use PaulAdams\Namesilo\Response\Response;
 
 class HttpClient implements HttpClientInterface
 {
