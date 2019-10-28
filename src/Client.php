@@ -8,7 +8,6 @@ use Dashboard\Services\Namesilo\Response\Response;
 /**
  * Class Client
  *
- * @package Dashboard\Services\Namesilo
  * @method Response registerDomain(array $parameters) Register a new domain
  *         name
  * @method Response registerDomainDrop(array $parameters) Register a new domain
